@@ -22,6 +22,5 @@ var firstLength = first.length,
 			res[i-1] += trek;
 		}
 	}
-
 return(res.join(''));
 }
